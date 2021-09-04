@@ -1,0 +1,23 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon webservice.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api-key-auth": "^0.2.3",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "4.16.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.4",
+    "nodemon": "^2.0.12",
+    "path": "^0.12.7",
+    "redis": "^3.1.2"
+  }
+}

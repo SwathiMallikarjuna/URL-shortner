@@ -1,0 +1,41 @@
+section {
+    background-color: beige;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid gray;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+    margin: auto;
+    width: 50%;
+    height: 300px;
+}
+
+/* button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    margin: 15px;
+    border: none;
+  } */
+  button {
+    background-color: green;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+
+  header{
+    background-color: blueviolet;
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid violet;
+}
+
+#api-text{
+    overflow-wrap: break-word;
+    margin: 30px;
+}
